@@ -6,4 +6,4 @@
 
 2.) After you select maven project. You need to choose maven-archetype-webapp.
 
-3.) To see result in console you need to run only main class.
+3.) To see result in console you need to run only main class as java application.
