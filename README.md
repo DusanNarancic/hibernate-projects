@@ -1,5 +1,3 @@
-# hibernate-projects
-
 # Hibernate examples with results in console.
 
 1.) Before you create project you need to import and execute sql file in mysql.
